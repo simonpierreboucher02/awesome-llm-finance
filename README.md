@@ -436,6 +436,7 @@
 | **Alpaca** | [alpaca.markets](https://alpaca.markets/) | Developer-first, commission-free API brokerage for algorithmic and AI-driven trading. | ![Type](https://img.shields.io/badge/Type-API_Brokerage-blue?style=flat-square) |
 | **Dataminr** | [dataminr.com](https://www.dataminr.com/) | AI platform for real-time event detection across 160+ languages. Originally built for trading floors. | ![Languages](https://img.shields.io/badge/Languages-160%2B-blue?style=flat-square) |
 | **AI4Finance Foundation** | [ai4finance.org](https://ai4finance.org/) | Open-source org behind FinGPT, FinRL, FinRobot, FinRL-Meta. The ecosystem for open-source financial AI. | ![Type](https://img.shields.io/badge/Type-Open_Source-brightgreen?style=flat-square) |
+| **DDScore** | [ddscore.ai](https://www.ddscore.ai/) | AI-assisted first-pass due diligence that compares private-company materials with each other and with public sources. | ![Type](https://img.shields.io/badge/Type-Due_Diligence-blue?style=flat-square) |
 
 ---
 
